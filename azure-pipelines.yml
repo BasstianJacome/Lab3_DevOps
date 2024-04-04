@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Assignment4'
+  name: 'TestAgent'
 
 variables:
   solution: '**/*.sln'
